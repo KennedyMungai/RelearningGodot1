@@ -2,4 +2,4 @@
 
 [node name="Dank 3D scene" type="Spatial"]
 
-[node name="CSGBox" type="CSGBox" parent="."]
+[node name="cube" type="CSGBox" parent="."]
