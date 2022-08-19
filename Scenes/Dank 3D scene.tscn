@@ -6,3 +6,6 @@
 transform = Transform( 2, 0, 0, 0, 1.41286, -1.41557, 0, 1.41557, 1.41286, 2.4321, 0.523556, -0.577481 )
 height = 3.86196
 depth = 3.77326
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 0.767, 0, 0, 0, 0.767, 0, 0, 0, 0.767, 0, 0, 13.0414 )
