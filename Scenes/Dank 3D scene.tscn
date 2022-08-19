@@ -8,7 +8,7 @@ height = 3.86196
 depth = 3.77326
 
 [node name="Camera" type="Camera" parent="."]
-transform = Transform( 0.767, 0, 0, 0, 0.767, 0, 0, 0, 0.767, 0, 0, 13.0414 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.8597, 13.0414 )
 
 [node name="Sun" type="DirectionalLight" parent="."]
 transform = Transform( 1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 15, 0 )
