@@ -10,5 +10,5 @@ depth = 3.77326
 [node name="Camera" type="Camera" parent="."]
 transform = Transform( 0.767, 0, 0, 0, 0.767, 0, 0, 0, 0.767, 0, 0, 13.0414 )
 
-[node name="DirectionalLight" type="DirectionalLight" parent="."]
+[node name="Sun" type="DirectionalLight" parent="."]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 13.6604, 0 )
