@@ -3,3 +3,4 @@
 [node name="Dank 3D scene" type="Spatial"]
 
 [node name="cube" type="CSGBox" parent="."]
+transform = Transform( 2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0 )
