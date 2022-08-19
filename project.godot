@@ -21,6 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Relearning Godot 1"
+run/main_scene="res://Scenes/Dank 3D scene.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
