@@ -3,9 +3,10 @@
 [node name="Dank 3D scene" type="Spatial"]
 
 [node name="cube" type="CSGBox" parent="."]
-transform = Transform( 2, 0, 0, 0, 1.41286, -1.41557, 0, 1.41557, 1.41286, 2.4321, 0.523556, -0.577481 )
-height = 3.86196
-depth = 3.77326
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.194408, 0 )
+width = 44.4323
+height = 0.398322
+depth = 33.2549
 
 [node name="Camera" type="Camera" parent="."]
 transform = Transform( 1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 13, 0 )
