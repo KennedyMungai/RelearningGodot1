@@ -4,6 +4,7 @@ func _init():
 	var number:int = calculate_sum(1,2);
 	print(number);
 	display_full_name("Barack", "Obama");
+	display_full_name();
 
 func calculate_sum(a:int, b:int) -> int:
 	return(a+b);
