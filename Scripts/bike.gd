@@ -6,6 +6,9 @@ var speed: float
 var color: String
 var bike_name: String
 
+func _init(new_color: String):
+	color = new_color
+
 func accelerate():
 	speed += 1
 	
