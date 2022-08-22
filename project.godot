@@ -9,18 +9,25 @@
 config_version=4
 
 _global_script_classes=[ {
+"base": "Reference",
+"class": "Bike",
+"language": "GDScript",
+"path": "res://Scripts/Bike.gd"
+}, {
 "base": "EditorVCSInterface",
 "class": "GitAPI",
 "language": "NativeScript",
 "path": "res://addons/godot-git-plugin/git_api.gdns"
 } ]
 _global_script_class_icons={
+"Bike": "",
 "GitAPI": ""
 }
 
 [application]
 
 config/name="Relearning Godot 1"
+run/main_scene="res://Scenes/NoobIsMe.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
