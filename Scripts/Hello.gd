@@ -2,6 +2,7 @@ extends Node
 
 var life: int = 3
 var somebodys_name: String = "Patrick"
+var names:Array = []
 
 func _init():
 	print("You know my name")
