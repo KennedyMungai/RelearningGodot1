@@ -7,5 +7,6 @@ var names:Array = ["Paul", "Mary", "John", "Mark", "Eva", "Pat", "Sinead", "Elma
 func _init():
 	if(somebodys_name and life):
 		print("Hey ya!")
+		print(names)
 
 # I am a comment. Don't mind me
