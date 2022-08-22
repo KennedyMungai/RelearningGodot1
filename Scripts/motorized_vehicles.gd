@@ -8,3 +8,6 @@ var petrol_levels: float;
 
 func fill_up_tank():
 	petrol_levels += 10;
+
+func accelerate():
+	speed += 10;
