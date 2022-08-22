@@ -5,7 +5,6 @@ func _init():
 	var Bike = load("res://Scripts/bike.gd")
 	var my_bike = Bike.new()
 	
-	for y in range(0,10):
-		print("y "+str(y))
+	my_bike.accelerate()
 
 # I am a comment. Don't mind me
