@@ -11,3 +11,6 @@ func accelerate():
 	
 func turn_right():
 	print("Turning right")
+
+func calculate_distance():
+	print("Calculating distance")
