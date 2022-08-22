@@ -6,5 +6,6 @@ func _init():
 	var my_bike = Bike.new()
 	
 	my_bike.accelerate()
+	Bike.say_hello()
 
 # I am a comment. Don't mind me
