@@ -18,10 +18,22 @@ _global_script_classes=[ {
 "class": "bike",
 "language": "GDScript",
 "path": "res://Scripts/bike.gd"
+}, {
+"base": "vehicle",
+"class": "motorized_vehicle",
+"language": "GDScript",
+"path": "res://Scripts/motorized_vehicles.gd"
+}, {
+"base": "Node",
+"class": "vehicle",
+"language": "GDScript",
+"path": "res://Scripts/vehicle.gd"
 } ]
 _global_script_class_icons={
 "GitAPI": "",
-"bike": ""
+"bike": "",
+"motorized_vehicle": "",
+"vehicle": ""
 }
 
 [application]
