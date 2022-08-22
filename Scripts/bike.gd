@@ -19,3 +19,6 @@ func turn_right():
 
 func calculate_distance():
 	print("Calculating distance")
+	
+static func say_hello():
+	print("Surprise Mother Fucker")
