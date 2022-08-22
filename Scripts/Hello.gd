@@ -1,7 +1,7 @@
 extends Node
 
-onready var life: int = 3
-onready var somebodys_name: String = "Patrick"
+var life: int = 3
+var somebodys_name: String = "Patrick"
 
 func _init():
 	print("You know my name")
